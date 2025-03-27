@@ -1,1 +1,1 @@
-# iamge_denoiser
+# Image_denoiser
